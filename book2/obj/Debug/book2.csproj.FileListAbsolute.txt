@@ -1,0 +1,11 @@
+D:\programming\c#\exercices\book2\book2\bin\Debug\book2.exe.config
+D:\programming\c#\exercices\book2\book2\bin\Debug\book2.exe
+D:\programming\c#\exercices\book2\book2\bin\Debug\book2.pdb
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.csproj.AssemblyReference.cache
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.Form1.resources
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.Properties.Resources.resources
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.csproj.GenerateResource.cache
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.csproj.CoreCompileInputs.cache
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.exe
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.pdb
+D:\programming\c#\exercices\book2\book2\obj\Debug\book2.Form2_CRUD_DECONNECTER.resources
